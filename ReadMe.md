@@ -11,6 +11,6 @@ You can watch a demo of the software here.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [W3Schools](https://www.w3schools.com/java/default.asp)
 * [Beginners Book](https://beginnersbook.com/java-collections-tutorials/)

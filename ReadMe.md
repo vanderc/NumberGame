@@ -2,8 +2,8 @@
 
 This is a number guessing game. I created this to show my understanding of Java.
 
-
-[Software Demo Video](http://youtube.link.goes.here)
+You can watch a demo of the software here.
+[Software Demo Video](https://youtu.be/wwCsRtouauo)
 
 # Development Environment
 - Java
